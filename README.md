@@ -1,9 +1,18 @@
 # RL-NS3Gym
+-Reinforced Learning for NS3 in Cognitive Radio spectrum selection
+
+-Spectrum Hole sensing/prediction is paramount importance to Secondary Users in a CR environment
+
+-Problem of radio channel selection in a wireless multi-channel environment, e.g. 802.11 networks with external interference. 
+
+-RL optimisation algorithms can help predict the occurences of Spectrum White Space so that Channel can be effectively utilized
+
+-The objective of the agent is to select for the next time slot a channel free of interference considering a basic example where the external interference follows a periodic pattern, i.e. time-slice sweeping over all available channels
 
 ## Basic Setup
 WSL Ubuntu 18.04
 
-NS-3 3.17
+NS3 3.17
 
 Python3.6
 
